@@ -39,6 +39,6 @@ ketik ```git push -u origin main``` enter
 - Selesai.
 
   ![Screen Shot 2023-01-24 at 16 36 57](https://user-images.githubusercontent.com/123437453/214262691-0fbe3b75-8a38-43de-bf8f-1f075b29ad75.png)
-- Sudah ditambahkan di Github.
+- Berhasil ditambahkan di Github.
 
   ![Screen Shot 2023-01-24 at 17 02 57](https://user-images.githubusercontent.com/123437453/214263478-e64a78af-d066-4197-8814-80a2820d9261.png)
